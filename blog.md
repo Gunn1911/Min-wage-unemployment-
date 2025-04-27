@@ -1,3 +1,5 @@
+
+{%preview https://github.com/Gunn1911/Min-wage-unemployment- %}
 # <span style="background-color: lightblue;">**The Wage-Unemployment Tightrope: Can Higher Minimum Pay Help Young Workers Without Costing Jobs?**</span>
 As a 20-year-old myself, I’ve experienced firsthand the challenges of finding meaningful work in today’s job market. Balancing the need for a fair wage with the reality of limited experience often feels like walking a tightrope. Many young people like me face a tough question: does raising the minimum wage help us earn a decent living, or does it make it harder to get a foot in the door?
 
@@ -61,7 +63,7 @@ This result is consistent with economic theories that claim that raising the min
 
 These findings emphasise to policymakers the significance of carefully striking a balance between policies that promote workforce development and job creation and rises in the minimum wage. Low-paid workers' incomes could be increased while potential negative employment consequences are reduced with the help of skill training investments, targeted support for industries that are particularly susceptible, and gradual wage adjustments.
 
-### <span style="color:red"> Analyzing the Relationship Between Minimum Wage and Unemployment (Random Forest Model) </span>
+### <span style="color:red"> Analyzing the Relationship Between Minimum Wage and Unemployment (Causal Forest Model) </span>
 
 Our research into the relationship between minimum wage policies and unemployment rates across Mexico, the United Kingdom, and the United States has yielded significant insights through statistical modeling.
 
